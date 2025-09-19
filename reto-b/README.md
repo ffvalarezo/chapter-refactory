@@ -1,6 +1,6 @@
 # Reto B — Front + Persistencia (Listado de Clientes)
 
-## 🎯 Objetivo
+## Objetivo
 Refactorizar un listado de clientes que actualmente presenta malas prácticas:
 - Lógica de negocio en la vista.
 - Uso excesivo de `any` en consultas y eventos.
@@ -11,7 +11,7 @@ El reto consiste en aplicar buenas prácticas de **Angular** y **Backend con SQL
 
 ---
 
-## 📝 Tareas sugeridas (Angular)
+## Tareas sugeridas (Angular)
 
 1. **Modelos tipados**
    - Crear `Customer` y `Account` como modelos tipados.
@@ -37,7 +37,7 @@ El reto consiste en aplicar buenas prácticas de **Angular** y **Backend con SQL
 
 ---
 
-## 📝 Tareas sugeridas (Backend + SQL)
+## Tareas sugeridas (Backend + SQL)
 
 1. **Seguridad**
    - Parametrizar consultas (eliminar concatenación de strings).
@@ -61,7 +61,7 @@ El reto consiste en aplicar buenas prácticas de **Angular** y **Backend con SQL
 
 ---
 
-## ✅ Criterios de “Hecho”
+## Criterios de “Hecho”
 
 - **Angular**:
   - Componente delgado (sin lógica de negocio).
@@ -84,7 +84,7 @@ El reto consiste en aplicar buenas prácticas de **Angular** y **Backend con SQL
 
 ---
 
-## 🛠️ Tecnologías sugeridas
+## Tecnologías sugeridas
 - **Frontend**: Angular 18+, RxJS, Jasmine/Karma o Jest.  
 - **Backend**: Java 17+, Spring Boot/JDBC/JPA, JUnit 5.  
 - **Base de datos**: PostgreSQL / H2 (para pruebas).
