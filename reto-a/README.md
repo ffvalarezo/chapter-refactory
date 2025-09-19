@@ -1,6 +1,6 @@
 # Reto A — Backend Bancario (Intereses y Puntos de Cliente)
 
-## 🎯 Objetivo
+## Objetivo
 Refactorizar un servicio con lógica de negocio bancaria altamente acoplada.  
 Actualmente presenta:
 - Métodos largos.
@@ -14,7 +14,7 @@ El reto consiste en aplicar buenas prácticas de **Clean Code** y **Principios S
 
 ---
 
-## ✅ Criterios de “Hecho”
+## Criterios de “Hecho”
 
 - **Cohesión por rol**: separar en clases según responsabilidad (estrategia de tasa, cálculo de interés, cálculo de puntos).
 - **Sin malas prácticas**:
@@ -33,7 +33,7 @@ El reto consiste en aplicar buenas prácticas de **Clean Code** y **Principios S
 
 ---
 
-## 📝 Tareas sugeridas
+## Tareas sugeridas
 
 1. **Separar responsabilidades**  
    - Cálculo de tasa.  
@@ -57,7 +57,7 @@ El reto consiste en aplicar buenas prácticas de **Clean Code** y **Principios S
 
 ---
 
-## 🛠️ Tecnologías sugeridas
+## Tecnologías sugeridas
 - **Java 17+**
 - **JUnit 5** para pruebas unitarias
 - **Mockito** (opcional, para mocks)
@@ -65,7 +65,7 @@ El reto consiste en aplicar buenas prácticas de **Clean Code** y **Principios S
 
 ---
 
-## 🚀 Entregables
+## Entregables
 - Código refactorizado con separación clara de responsabilidades.
 - Carpeta de tests con cobertura de casos principales.
 - Documentación mínima en el código (autoexplicativo).
