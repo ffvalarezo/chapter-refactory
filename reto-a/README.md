@@ -33,7 +33,7 @@ El reto consiste en aplicar buenas prácticas de **Clean Code** y **Principios S
 
 ---
 
-## 📝 Tareas sugeridas (Java)
+## 📝 Tareas sugeridas
 
 1. **Separar responsabilidades**  
    - Cálculo de tasa.  
